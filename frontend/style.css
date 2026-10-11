@@ -162,6 +162,7 @@ img {
   border-radius: 10px;
   overflow: hidden;
   height: 320px;
+  cursor:pointer;
 }
 
 .category-card:hover img {
@@ -190,7 +191,6 @@ img {
   font-size: 13px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 900px) {
 
   .style-grid,
